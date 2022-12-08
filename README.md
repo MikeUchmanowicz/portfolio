@@ -1,5 +1,5 @@
 # My Portfolio
-Repository that provides Links to other repositories.
+Repository that provides links to other repositories.
 
 Please Also See: [My Resume](https://github.com/MikeUchmanowicz/Resume/)
 ___
