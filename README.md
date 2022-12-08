@@ -1,5 +1,6 @@
 # My Portfolio
-Repository that provides links to other repositories.
+
+Portfolio Repository. Provides links to other repositories.
 
 ___
 
