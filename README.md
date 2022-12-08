@@ -1,7 +1,6 @@
 # My Portfolio
 Repository that provides links to other repositories.
 
-Please Also See: [My Resume](https://github.com/MikeUchmanowicz/Resume/)
 ___
 
 - [Neat is Neat Senior Project](https://github.com/MikeUchmanowicz/Neat-is-Neat-Senior-Project/) - *Python, Pygame, Django, NEAT AI*  
