@@ -9,6 +9,10 @@ ___
   Currently designing and creating a simple "endless scroller" game within python with an implemented evolutionary Artificial Intelligence in order to play the game. The project's purpose is to explore the concepts of NEAT. The game will upload AI info/results to a database post-game which an included full-stack django webapp will retrieve from an SQL database and display both in a list and in a graph. The django webapp also features user registration and authentication.
 
 
+- [Contacts API / Full Stack CRUD Webapp](https://github.com/MikeUchmanowicz/ContactsAPI) - *JS Express, JS Angular*  
+
+  Created a Contacts API back end using express which allows for the creating, reading, updating, and deleting of contacts and notes associated with them. Contacts and notes are stored in a MySQL database. A front end using angular was then added to the application which provides users with a seamless UI.
+
 - [Inventory Store CRUD Springboot](https://github.com/MikeUchmanowicz/Inventory-Store-CRUD-Springboot/) - *Java, Springboot, Thymeleaf, JavaScript*  
 
   Designed and created (collaboratory team of 2) a crud webapp that supports polymorphism and different items. Users are able to register, login, view their own inventory, view the "store" inventory, purchase items from the "store", and add each other as friends. An Admin user can create, edit, and delete products within the "store". An SQL database stores products, users, and friendships. Utilizes: IoC, SoC, & N-Layer architecture.
