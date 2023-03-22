@@ -11,7 +11,7 @@ ___
 
 - [Inventory Store CRUD Springboot](https://github.com/MikeUchmanowicz/Inventory-Store-CRUD-Springboot/) - *Java, Springboot, Thymeleaf, JavaScript*  
 
-  Designed and created (collaboratory team of 2) a crud webapp that supports polymorphism and different items. Users are able to register, login, view their own inventory, view the "store" inventory, purchase items from the "store", and add each other as friends. An Admin user can create, edit, and delete products within the "store". An SQL database stores products, users, and friendships. Utilizes: IoC, SoC, & N-Layer architecture.
+  Designed and created (collaboratory team of 2) a crud webapp that supports polymorphism and different items. Users are able to register, login, view their own inventory, view the "store" inventory, purchase items from the "store", and add each other as friends. An Admin user can create, edit, and delete products within the "store". An SQL database stores products, users, and friendships. Utilizes: IoC, SoC, & N-Layer architecture. Application was later containerized using docker and an image was uploaded to AWS's ECS.
 
 
 - [Contacts API / Full Stack CRUD Webapp](https://github.com/MikeUchmanowicz/ContactsAPI) - *JS Express, JS Angular*  
