@@ -19,7 +19,7 @@ ___
   Created a Contacts API back end using express which allows for the creating, reading, updating, and deleting of contacts and notes associated with them. Contacts and notes are stored in a MySQL database. A front end using angular was then added to the application which provides users with a seamless UI.
 
 
-- [Springboot Cloud "Lift n' Shift"](https://github.com/MikeUchmanowicz/SpringBootLiftNShift) - *Springboot stack, AWS, Google Cloud, Azure, Heroku*  
+- [Springboot Cloud "Lift n' Shift w DevOps"](https://github.com/MikeUchmanowicz/SpringBootLiftNShiftDevOps) - *Springboot stack, AWS, Google Cloud, Azure, Heroku*  
 
   I created a springboot application and hosted it within several clouds: AWS, Google Cloud, Azure, and Heroku. The cloud hosted springboot Application features a home page and a "pseudo-login", allowing for any input which will take the user to an orders page. The user can see all orders which are retrieved from a MySQL database hosted by the same cloud host.
 
