@@ -11,7 +11,7 @@ ___
 
 - [Inventory Store CRUD Springboot](https://github.com/MikeUchmanowicz/Inventory-Store-CRUD-Springboot/) - *Java, Springboot, Thymeleaf, JavaScript*  
 
-  Designed and created (collaboratory team of 2) a crud webapp that supports polymorphism and different items. Users are able to register, login, view their own inventory, view the "store" inventory, purchase items from the "store", and add each other as friends. An Admin user can create, edit, and delete products within the "store". An SQL database stores products, users, and friendships. Utilizes: IoC, SoC, & N-Layer architecture. Application was later containerized using docker and an image was uploaded to AWS's ECS.
+  Designed and created (collaboratory team of 2) a crud webapp that supports polymorphism and different items. Users are able to register, login, view their own inventory, view the "store" inventory, purchase items from the "store", and add each other as friends. An Admin user can create, edit, and delete products within the "store". An SQL database stores products, users, and friendships. Utilizes: IoC, SoC, & N-Layer architecture. Application was later containerized using docker and an image was uploaded to AWS's ECS. Production level logging and a pipeline built in Github Actions are used.
 
 
 - [Contacts API / Full Stack CRUD Webapp](https://github.com/MikeUchmanowicz/ContactsAPI) - *JS Express, JS Angular*  
@@ -21,7 +21,7 @@ ___
 
 - [Springboot Cloud "Lift n' Shift w DevOps"](https://github.com/MikeUchmanowicz/SpringBootLiftNShiftDevOps) - *Springboot stack, AWS, Google Cloud, Azure, Heroku*  
 
-  I created a springboot application and hosted it within several clouds: AWS, Google Cloud, Azure, and Heroku. The cloud hosted springboot Application features a home page and a "pseudo-login", allowing for any input which will take the user to an orders page. The user can see all orders which are retrieved from a MySQL database hosted by the same cloud host. It has production level logging and uses a pipeline in AWS codePipeline
+  I created a springboot application and hosted it within several clouds: AWS, Google Cloud, Azure, and Heroku. The cloud hosted springboot Application features a home page and a "pseudo-login", allowing for any input which will take the user to an orders page. The user can see all orders which are retrieved from a MySQL database hosted by the same cloud host. Production level logging and a pipeline built in AWS codePipeline are used.
 
 
 - Inventory Client & Admin Services Console App - *Java*
