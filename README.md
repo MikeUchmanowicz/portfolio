@@ -18,7 +18,7 @@ ___
 
   Created a Contacts API back end using express which allows for the creating, reading, updating, and deleting of contacts and notes associated with them. Contacts and notes are stored in a MySQL database. A front end using angular was then added to the application which provides users with a seamless UI.
   
-- [Contacts API / Full Stack CRUD Webapp](https://github.com/MikeUchmanowicz/ContactsAPI) - *JS Express, JS React*  
+- [Contacts API / Full Stack CRUD Webapp](https://github.com/MikeUchmanowicz/ContactsAPIReact)- *JS Express, JS React*  
 
   Created a Contacts API back end using express which allows for the creating, reading, updating, and deleting of contacts and notes associated with them. Contacts and notes are stored in a MySQL database. A front end using react was then added to the application which provides users with a seamless UI.
 
