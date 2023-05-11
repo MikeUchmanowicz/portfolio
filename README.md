@@ -14,9 +14,9 @@ ___
   Designed and created (collaboratory team of 2) a crud webapp that supports polymorphism and different items. Users are able to register, login, view their own inventory, view the "store" inventory, purchase items from the "store", and add each other as friends. An Admin user can create, edit, and delete products within the "store". An SQL database stores products, users, and friendships. Utilizes: IoC, SoC, & N-Layer architecture. Application was later containerized using docker and an image was uploaded to AWS's ECS. Production level logging, tracing, ptime monitoring, and a pipeline built in Github Actions are used. The MySQL database is hosted within AWS' RDS
 
 
-- [Contacts API / Full Stack CRUD Webapp](https://github.com/MikeUchmanowicz/ContactsAPI) - *JS Express, JS Angular*  
+- [Contacts API / Full Stack CRUD Webapp](https://github.com/MikeUchmanowicz/ContactsAPI) - *JS Express, JS Angular, JS React*  
 
-  Created a Contacts API back end using express which allows for the creating, reading, updating, and deleting of contacts and notes associated with them. Contacts and notes are stored in a MySQL database. A front end using angular was then added to the application which provides users with a seamless UI.
+  Created a Contacts API back end using express which allows for the creating, reading, updating, and deleting of contacts and notes associated with them. Contacts and notes are stored in a MySQL database. Two front ends using both angular and react were then added to the application which provides users with a seamless UI.
 
 
 - [Springboot Cloud "Lift n' Shift w DevOps"](https://github.com/MikeUchmanowicz/SpringBootLiftNShiftDevOps) - *Springboot stack, AWS, Google Cloud, Azure, Heroku*  
